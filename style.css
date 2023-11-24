@@ -22,14 +22,14 @@ body {
 
   color: white;
   width: 25rem;
-  border-radius: 10px;
+  border-radius: 25px;
   padding: 5rem 2rem;
   background-color: #222;
 
   text-align: center;
 
-  box-shadow: 0 0 20 0 black;
-  border: 1px solid black;
+  box-shadow: 0 0 30px 1px black;
+  border: 1px solid #666;
   outline: none;
   transition: all 0.2s ease-in-out;
 }
@@ -87,8 +87,8 @@ h2 {
   }
 
   50% {
-    border-color: yellow;
-    color: yellow;
+    border-color: fuchsia;
+    color: fuchsia;
   }
 
   60% {
